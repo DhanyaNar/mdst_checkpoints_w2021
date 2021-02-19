@@ -4,4 +4,5 @@ tutorial1/
 tutorial2/
 *ipynb.checkpoints
 *_pycache_
+*.txt
 
